@@ -26,4 +26,3 @@
     </a>
 </div>
   
-![ Animação de cobra ](https://github.com/Miguel4guiar/Miguel4guiar/blob/output/github-contribution-grid-snake.svg)
