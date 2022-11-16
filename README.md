@@ -1,4 +1,10 @@
-# Miguel4guiar
+##  Opa, tudo bem? 
+🧑🏻‍💻<b>cursando superior em análise de desenvolvimento de sistemas - 2°semestre. </b>
+<br>
+🛸 <b>fascinado em tecnologias e suas linguagens. </b>
+
+<br>
+
 
 <div>
   
