@@ -1,16 +1,11 @@
 ##  Opa, tudo bem? 
-🧑🏻‍💻<b>cursando superior em análise de desenvolvimento de sistemas - 2°semestre. </b>
+🧑🏻‍💻<b>cursando superior em análise de desenvolvimento de sistemas - 3°semestre. </b>
 <br>
 🛸 <b>fascinado em tecnologias e suas linguagens. </b>
 
 <br>
 
 
-<div>
-  
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Miguel4guiar&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel4guiar&layout=compact&langs_count=16&theme=great-gatsby"/>
-</div>
 <br>
 
 <div align="center">
