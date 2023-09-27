@@ -1,5 +1,5 @@
 ##  Opa, tudo bem? 
-🧑🏻‍💻<b>cursando superior em análise de desenvolvimento de sistemas - 3°semestre. </b>
+🧑🏻‍💻<b>cursando superior em análise de desenvolvimento de sistemas - 4°semestre. </b>
 <br>
 🛸 <b>fascinado em tecnologias e suas linguagens. </b>
 
