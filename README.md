@@ -7,7 +7,7 @@
 
 
 <br>
-
+<div>
 
     <h1 align="center">Linguagens utilizadas</h1>
     <img align="center" height="30" width="40" alt="js-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
