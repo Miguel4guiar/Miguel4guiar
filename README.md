@@ -1,5 +1,5 @@
 ##  Opa, tudo bem? 
-🧑🏻‍💻<b>cursando superior em análise de desenvolvimento de sistemas - 4°semestre. </b>
+🧑🏻‍💻<b>cursando superior em Ciência da computação. </b>
 <br>
 🛸 <b>fascinado em tecnologias e suas linguagens. </b>
 
@@ -20,7 +20,8 @@
  
    <h1 align="center">Redes Sociais</h1>
      <a href = "mailto: miguelaguiar812@gmail.com">
-       <img width="30" src="https://cdn-icons-png.flaticon.com/512/281/281786.png?w=740&t=st=1668546560~exp=1668547160~hmac=e3e8fb65c298958aa2d530dbc0c390f73c899c6de55e1786e13e6762073d641e">
+   
+<img width="30" src="https://cdn-icons-png.flaticon.com/512/281/281786.png?w=740&t=st=1668546560~exp=1668547160~hmac=e3e8fb65c298958aa2d530dbc0c390f73c899c6de55e1786e13e6762073d641e">
      </a>
      <a href = "https://www.linkedin.com/in/miguel-henrique-377b00214/">
     
