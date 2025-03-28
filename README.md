@@ -26,12 +26,6 @@
      <a href = "https://www.linkedin.com/in/miguel-henrique-377b00214/">
     
   
-  <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: miguelaguiar812@gmail.com">
-      <img width="30" src="https://cdn-icons-png.flaticon.com/512/281/281786.png?w=740&t=st=1668546560~exp=1668547160~hmac=e3e8fb65c298958aa2d530dbc0c390f73c899c6de55e1786e13e6762073d641e">
-    </a>
-    <a href = "https://www.linkedin.com/in/miguel-henrique-377b00214/">
-      <img width="30" src="https://cdn-icons-png.flaticon.com/512/3938/3938044.png">
-    </a>
+
 </div>
   
