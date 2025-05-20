@@ -32,6 +32,6 @@ Tenho experiência em **desenvolvimento web**, mas atualmente estou focado em me
 </p>
 
 <p align="center">
-  <sub>Feito com café, música e um monte de <code>printf()</code> 😄</sub>
+  <sub>Feito com  música e um monte de <code>printf()</code> 😄</sub>
 </p>
 
