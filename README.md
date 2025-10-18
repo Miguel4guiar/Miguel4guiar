@@ -1,7 +1,7 @@
 ## 👋 E aí! Eu sou o Miguel
 
 Estudante de **Ciência da Computação**, apaixonado por tecnologia.
-Tenho experiência em **desenvolvimento web**, mas atualmente estou focado em melhorar minhas habilidades com **linguagem C**.
+Tenho experiência em **desenvolvimento web**.
 
 ---
 
