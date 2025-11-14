@@ -25,13 +25,6 @@ Tenho experiência em **desenvolvimento web**.
 - 💼 [LinkedIn](https://www.linkedin.com/in/miguel-aguiar-377b00214/)  
 - 📸 [Instagram](https://www.instagram.com/guelz_1?igsh=MWZ5ODFuZ2phbzJqbg%3D%3D&utm_source=qr)
 
----
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Miguel4guiar&show_icons=true&theme=transparent" width="400" />
-</p>
 
-<p align="center">
-  <sub>Feito com  música e um monte de <code>printf()</code> 😄</sub>
-</p>
 
